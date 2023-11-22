@@ -1,0 +1,2 @@
+Vulnerable Code:
+https://github.com/snoopysecurity/Vulnerable-Code-Snippets/blob/master/IDOR/example1.php
